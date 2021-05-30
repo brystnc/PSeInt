@@ -14,6 +14,7 @@ Proceso Decimal_Binario
 	Definir promedio Como Real;
 	Definir num, acumulador, contador Como Entero;
 	Definir seguir Como Logico;
+	
 	contador <- 0;
 	acumulador <- 0;
 	promedio <- 0;
